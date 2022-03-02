@@ -1,3 +1,6 @@
+使用springboot + Quartz框架构建的定时任务调度系统，添加请求地址，任务执行时，通过请求触发。
+
+
 # SpringBootQuartz
 Quartz with Spring Boot
 
